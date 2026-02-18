@@ -1,10 +1,13 @@
 **👷‍♂️Civil Engineering Insight Studio**
+
 The Civil Engineering Insight Studio is an AI-powered platform designed to automate the analysis of civil engineering structures. By leveraging Artificial Intelligence, the system identifies construction materials, documents project progress, and generates detailed structural insights from images, reducing the need for manual, subjective analysis.
 
 **📌 Problem Statement**
+
 Traditionally, civil engineers analyze site images manually to understand materials and progress, a process that is often time-consuming, subjective, and requires significant human expertise. This tool provides an automated, efficient alternative for generating detailed structural descriptions and safety reports.
 
-**🚀 FeaturesAutomated Structural Analysis:** 
+**🚀 FeaturesAutomated Structural Analysis:**
+
 1.Generates insightful descriptions of engineering structures, including types and notable features.
 
 2.Material Identification: Automatically identifies construction materials within images.
@@ -16,6 +19,7 @@ Traditionally, civil engineers analyze site images manually to understand materi
 5.AI-Powered Reports: Generates downloadable engineering safety reports in PDF format.
 
 **🏗️ System Architecture**
+
 The application is built with a clear modular structure:
 1.User Interface (UI): A web-based interface where users upload images and provide prompts.
 
@@ -51,6 +55,7 @@ to run the application run these command:
 **output**
 <img width="960" height="498" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/0d43d9d7-a5e5-41eb-8dce-b342d6eda369" />
 **🔗Author**
+
 lead:Raja Teki
 
 Team member: Malladi Dhanasai
