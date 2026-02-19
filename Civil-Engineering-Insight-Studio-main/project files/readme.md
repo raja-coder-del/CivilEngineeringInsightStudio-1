@@ -49,11 +49,17 @@ to run the application run these command:
 ###streamlit run app.py
 
 
-**input**
+**input image**
 ![tolu-olubode-PlBsJ5MybGc-unsplash](https://github.com/user-attachments/assets/2b0468ce-09ba-4fd6-b000-4f7a3c4533a3)
 
-**output**
+**👀output**
+
 <img width="960" height="498" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/0d43d9d7-a5e5-41eb-8dce-b342d6eda369" />
+
+![image 6](https://github.com/user-attachments/assets/44a9536b-1bf5-4db0-b277-f447f28db29c)
+
+** 🍿video**
+https://drive.google.com/file/d/13-Jq-8yqsXcyAMsWq--mey1Mvxtp9L2k/view?usp=sharing
 **🔗Author**
 
 lead:Raja Teki
