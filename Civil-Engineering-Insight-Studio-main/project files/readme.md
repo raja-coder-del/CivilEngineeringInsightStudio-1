@@ -61,7 +61,7 @@ to run the application run these command:
 ** 🍿video**
 https://drive.google.com/file/d/13-Jq-8yqsXcyAMsWq--mey1Mvxtp9L2k/view?usp=sharing
 
-**🔗Author**
+**🔗Authors**
 
 Lead:Raja Teki(developer)
 
